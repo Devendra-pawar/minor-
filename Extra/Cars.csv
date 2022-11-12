@@ -1,0 +1,54 @@
+Car_Name,Price,Fuel_Type,Mileage,Seating_Capacity,Safety_Rating,Warranty,Engine_Size,Transmission,Size,Fuel_Tank
+Tiago,₹  5.44 - 7.90 Lakh,"Petrol, CNG",20 - 26.4 km/l,5 People,4 Star (Global NCAP),2 Years or 75000 km,1199 cc,"Manual, Automatic (AMT)",3765 mm L X 1677 mm W X 1535 mm H,"35L, 60L"
+Punch,"₹  6.00 - 9.54 Lakh
+										",Petrol,18.8 - 18.9 km/l,5 People,5 Star (Global NCAP),2 Years or 75000 km,1199 cc,"Manual, Automatic (AMT)",3827 mm L X 1742 mm W X 1615 mm H,37 litre
+Tigor,₹  6.09 - 8.84 Lakh,"Petrol, CNG",19.2 - 26.4 km/l,5 People,4 Star (Global NCAP),2 Years or 75000 km,1199 cc,"Manual, Automatic (AMT)",3993 mm L X 1677 mm W X 1532 mm H,"35L, 60L"
+Altroz,₹  6.34 - 10.25 Lakh,"Petrol, Diesel",18.1 - 23 km/l,5 People,5 Star (Global NCAP),2 Years or 75000 km,"1199 cc, 1497 cc","Manual, Automatic (DCT)",3990 mm L X 1755 mm W X 1523 mm H,37 litre
+Tiago,₹  5.44 - 7.90 Lakh,"Petrol, CNG",20 - 26.4 km/l,5 People,4 Star (Global NCAP),2 Years or 75000 km,1199 cc,"Manual, Automatic (AMT)",3765 mm L X 1677 mm W X 1535 mm H,"35L, 60L"
+Nexon,₹  7.69 - 14.18 Lakh,"Petrol, Diesel",16.3 - 22 km/l,5 People,5 Star (Global NCAP),2 Years or 75000 km,"1199 cc, 1497 cc","Manual, Automatic (AMT)",3993 mm L X 1811 mm W X 1606 mm H,44 litre
+Tiago,₹  5.44 - 7.90 Lakh,"Petrol, CNG",20 - 26.4 km/l,5 People,4 Star (Global NCAP),2 Years or 75000 km,1199 cc,"Manual, Automatic (AMT)",3765 mm L X 1677 mm W X 1535 mm H,"35L, 60L"
+Tigor,₹  6.09 - 8.84 Lakh,"Petrol, CNG",19.2 - 26.4 km/l,5 People,4 Star (Global NCAP),2 Years or 75000 km,1199 cc,"Manual, Automatic (AMT)",3993 mm L X 1677 mm W X 1532 mm H,"35L, 60L"
+Harrier,₹  14.79 - 22.34 Lakh,Diesel,14.6 - 16.3 km/l,5 People,Not Tested,2 Years or 100000 km,1956 cc,"Manual, Automatic (TC)",4598 mm L X 1894 mm W X 1706 mm H,50 litre
+Nexon,₹  7.69 - 14.18 Lakh,"Petrol, Diesel",16.3 - 22 km/l,5 People,5 Star (Global NCAP),2 Years or 75000 km,"1199 cc, 1497 cc","Manual, Automatic (AMT)",3993 mm L X 1811 mm W X 1606 mm H,44 litre
+Nexon,₹  7.69 - 14.18 Lakh,"Petrol, Diesel",16.3 - 22 km/l,5 People,5 Star (Global NCAP),2 Years or 75000 km,"1199 cc, 1497 cc","Manual, Automatic (AMT)",3993 mm L X 1811 mm W X 1606 mm H,44 litre
+Safari,₹  15.45 - 23.76 Lakh,Diesel,14 - 16.1 km/l,6 - 7 People,Not Tested,2 Years or 100000 km,1956 cc,"Manual, Automatic (TC)",4661 mm L X 1894 mm W X 1786 mm H,50 litre
+Nexon,₹  7.69 - 14.18 Lakh,"Petrol, Diesel",16.3 - 22 km/l,5 People,5 Star (Global NCAP),2 Years or 75000 km,"1199 cc, 1497 cc","Manual, Automatic (AMT)",3993 mm L X 1811 mm W X 1606 mm H,44 litre
+Sonet,₹  7.49 - 13.99 Lakh,"Petrol, Diesel",18.2 - 24.1 km/l,5 People,Not Tested,3 Years (Unlimited KMs),"1197 cc, 1493 cc, 998 cc","Manual, Clutchless Manual (IMT), Automatic (DCT), Automatic (TC)",3995 mm L X 1790 mm W X 1610 mm H,45 litre
+Carens,₹  10.00 - 18.00 Lakh,"Petrol, Diesel",15.7 - 21.3 km/l,6 - 7 People,Not Tested,3 Years (Unlimited KMs),"1497 cc, 1353 cc, 1493 cc","Manual, Automatic (DCT), Automatic (TC)",4540 mm L X 1800 mm W X 1708 mm H,45 litre
+Seltos,₹  10.49 - 18.65 Lakh,"Petrol, Diesel",16.1 - 21 km/l,5 People,3 Star (Global NCAP),3 Years (Unlimited KMs),"1497 cc, 1493 cc, 1353 cc","Manual, Clutchless Manual (IMT), Automatic (TC), Automatic (CVT), Automatic (DCT)",4315 mm L X 1800 mm W X 1620 mm H,50 litre
+Carnival,"₹  29.99 - 34.98 Lakh
+										",Diesel,13.9 km/l,6 - 7 People,5 Star (ANCAP),3 Years (Unlimited KMs),2199 cc,Automatic (TC),5115 mm L X 1985 mm W X 1755 mm H,60 litre
+EV6,₹  59.95 - 64.95 Lakh,Electric,528 km,5 People,5 Star (Euro NCAP) star NCAP Rating,3 Years (Unlimited KMs),8 Years or 160000 km,77.4 kWh,4695 mm L X 1890 mm W X 1550 mm H,178 mm
+Virtus,₹  11.32 - 18.42 Lakh,Petrol,18.1 - 19.4 km/l,5 People,Not Tested,4 Years or 100000 km,"999 cc, 1498 cc","Manual, Automatic (TC), Automatic (DCT)",4561 mm L X 1752 mm W X 1507 mm H,45 litre
+Taigun,₹  11.56 - 18.71 Lakh,Petrol,17.2 - 19.2 km/l,5 People,5 Star (Global NCAP),4 Years or 100000 km,"999 cc, 1498 cc","Manual, Automatic (TC), Automatic (DCT)",4221 mm L X 1760 mm W X 1612 mm H,50 litre
+Tiguan,₹  33.50 Lakh,Petrol,12.6 km/l,5 People,5 Star (Euro NCAP),4 Years or 100000 km,1984 cc,Automatic (DCT),4509 mm L X 1839 mm W X 1665 mm H,60 litre
+Slavia,₹  11.29 - 18.40 Lakh,Petrol,18 - 19.4 km/l,5 People,Not Tested,4 Years or 100000 km,"999 cc, 1498 cc","Manual, Automatic (TC), Automatic (DCT)",4541 mm L X 1752 mm W X 1507 mm H,45 litre
+Kushaq,₹  11.58 - 19.69 Lakh,Petrol,17.2 - 19.2 km/l,5 People,5 Star (Global NCAP),4 Years or 100000 km,"999 cc, 1498 cc","Manual, Automatic (TC), Automatic (DCT)",4225 mm L X 1760 mm W X 1612 mm H,50 litre
+Octavia,₹  27.34 - 30.44 Lakh,Petrol,15.8 km/l,5 People,5 Star (Euro NCAP),4 Years or 100000 km,1984 cc,Automatic (DCT),4689 mm L X 1829 mm W X 1469 mm H,50 litre
+Superb,₹  34.16 - 37.26 Lakh,Petrol,15.1 km/l,5 People,5 Star (Euro NCAP),4 Years (Unlimited KMs),1984 cc,Automatic (DCT),4869 mm L X 1864 mm W X 1469 mm H,66 litre
+Kodiaq,₹  37.49 - 39.99 Lakh,Petrol,12.7 km/l,7 People,5 Star (Euro NCAP),4 Years or 100000 km,1984 cc,Automatic (DCT),4699 mm L X 1882 mm W X 1665 mm H,58 litre
+XF,₹  71.60 - 76.00 Lakh,"Petrol, Diesel",14.4 - 19.2 km/l,5 People,5 Star (Euro NCAP),3 Years (Unlimited KMs),1997 cc,Automatic (TC),4962 mm L X 1982 mm W X 1456 mm H,"74L, 66L"
+F-Pace,₹  74.88 Lakh,"Petrol, Diesel",12.9 - 19.3 km/l,5 People,5 Star (Euro NCAP),3 Years (Unlimited KMs),1997 cc,Automatic (TC),4747 mm L X 2071 mm W X 1664 mm H,"82L, 60L"
+F-Type,₹  97.93 Lakh - 2.61 Crore,Petrol,9.1 - 12.3 km/l,2 People,Not Tested,3 Years or 100000 km,"1997 cc, 5000 cc",Automatic (TC),4470 mm L X 1923 mm W X 1311 mm H,"63L, 70L"
+I-Pace,₹  1.08 - 1.12 Crore,Electric,470 km,5 People,5 Star (Euro NCAP) star NCAP Rating,3 Years or 100000 km,8 Years or  160000 km,90 kWh,4682 mm L X 2139 mm W X 1566 mm H,142 mm
+Kwid,₹  4.64 - 6.09 Lakh,Petrol,20.7 - 22 km/l,5 People,1 Star (Global NCAP),2 Years or 50000 km,"799 cc, 999 cc","Manual, Automatic (AMT)",3731 mm L X 1579 mm W X 1474 mm H,28 litre
+Triber,₹  5.90 - 8.51 Lakh,Petrol,18.2 - 19 km/l,7 People,4 Star (Global NCAP),2 Years or 50000 km,999 cc,"Manual, Automatic (AMT)",3991 mm L X 1739 mm W X 1643 mm H,40 litre
+Kiger,₹  5.99 - 10.62 Lakh,Petrol,18.2 - 20.5 km/l,5 People,4 Star (Global NCAP),2 Years or 50000 km,999 cc,"Manual, Automatic (AMT), Automatic (CVT)",3991 mm L X 1750 mm W X 1605 mm H,40 litre
+Compass,"₹  19.27 - 32.67 Lakh
+										","Petrol, Diesel",13.8 - 17.3 km/l,5 People,Not Tested,3 Years or 100000 km,"1368 cc, 1956 cc","Manual, Automatic (DCT), Automatic (TC)",4405 mm L X 1818 mm W X 1640 mm H,60 litre
+Meridian,₹  29.90 - 36.95 Lakh,Diesel,14.9 - 16.2 km/l,7 People,Not Tested,3 Years or 100000 km,1956 cc,"Manual, Automatic (TC)",4769 mm L X 1859 mm W X 1698 mm H,60 litre
+Wrangler,₹  57.83 - 61.83 Lakh,Petrol,5 People,1 Star (Euro NCAP),2 Years (Unlimited KMs),1998 cc,Automatic (TC),4882 mm L X 1894 mm W X 1838 mm H,81 litre,214 mm
+XC40,₹  45.85 Lakh,Mild Hybrid(Electric + Petrol),14.4 km/l,5 People,5 Star (Euro NCAP),2 Years (Unlimited KMs),1969 cc,Automatic,4440 mm L X 1863 mm W X 1652 mm H,54 litre
+S60,₹  45.90 Lakh,Mild Hybrid(Electric + Petrol),14 km/l,5 People,5 Star (Euro NCAP),2 Years (Unlimited KMs),1969 cc,Automatic (TC),4761 mm L X 2040 mm W X 1431 mm H,60 litre
+XC40,₹  45.85 Lakh,Mild Hybrid(Electric + Petrol),14.4 km/l,5 People,5 Star (Euro NCAP),2 Years (Unlimited KMs),1969 cc,Automatic,4440 mm L X 1863 mm W X 1652 mm H,54 litre
+XC60,₹  65.90 Lakh,Mild Hybrid(Electric + Petrol),12.4 km/l,5 People,5 Star (Euro NCAP),2 Years (Unlimited KMs),1969 cc,Automatic,4708 mm L X 1902 mm W X 1653 mm H,71 litre
+S90,₹  66.90 Lakh,Mild Hybrid(Electric + Petrol),14.7 km/l,5 People,5 Star (Euro NCAP),2 Years (Unlimited KMs),1969 cc,Automatic,4969 mm L X 1879 mm W X 1440 mm H,60 litre
+XC90,₹  94.90 Lakh,Mild Hybrid(Electric + Petrol),11.04 km/l,7 People,5 Star (Euro NCAP),2 Years (Unlimited KMs),1969 cc,Automatic,4953 mm L X 2008 mm W X 1773 mm H,71 litre
+Magnite,₹  5.97 - 10.53 Lakh,Petrol,17.7 - 20 km/l,5 People,4 Star (ASEAN NCAP),2 Years or 40000 km,999 cc,"Manual, Automatic (CVT)",3994 mm L X 1758 mm W X 1572 mm H,40 litre
+Kicks,₹  9.50 - 14.88 Lakh,Petrol,13.9 - 15.8 km/l,5 People,3 Star (Euro NCAP),2 Years or 50000 km,"1498 cc, 1330 cc","Manual, Automatic (CVT)",4384 mm L X 1813 mm W X 1669 mm H,50 litre
+GT-R,₹  2.12 Crore,Petrol,8.4 km/l,4 People,Not Tested,3 Years or 100000 km,3799 cc,Automatic (DCT),4710 mm L X 1895 mm W X 1370 mm H,74 litre
+Urus,₹  3.10 Crore,Petrol,7.8 km/l,5 People,Not Tested,3 Years (Unlimited KMs),3996 cc,Automatic (DCT),5112 mm L X 2016 mm W X 1638 mm H,85 litre
+Huracan,₹  3.22 - 3.73 Crore,Petrol,7.2 - 7.3 km/l,2 People,Not Tested,3 Years (Unlimited KMs),5204 cc,Automatic (DCT),4520 mm L X 2236 mm W X 1165 mm H,83 litre
+Huracan,₹  3.22 - 3.73 Crore,Petrol,7.2 - 7.3 km/l,2 People,Not Tested,3 Years (Unlimited KMs),5204 cc,Automatic (DCT),4520 mm L X 2236 mm W X 1165 mm H,83 litre
+Huracan,₹  3.22 - 3.73 Crore,Petrol,7.2 - 7.3 km/l,2 People,Not Tested,3 Years (Unlimited KMs),5204 cc,Automatic (DCT),4520 mm L X 2236 mm W X 1165 mm H,83 litre
+Huracan,₹  3.22 - 3.73 Crore,Petrol,7.2 - 7.3 km/l,2 People,Not Tested,3 Years (Unlimited KMs),5204 cc,Automatic (DCT),4520 mm L X 2236 mm W X 1165 mm H,83 litre
