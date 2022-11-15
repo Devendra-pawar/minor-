@@ -1,0 +1,59 @@
+Brand_Name,Model_Name,Price,Fuel_Type,Mileage,Seating_Capacity in People,Safety_Rating in Stars,Warranty in years,Engine_Size in cc,Transmission,Size,Fue_Tank in litre
+Tata,Tiago, 5.44 - 7.90 Lakh,Petrol CNG,20 - 26.4 km/l,5,4,2,1199,Manual Automatic (AMT),3765 mm L X 1677 mm W X 1535 mm H,35 60
+Tata,Punch," 6.00 - 9.54 Lakh
+										",Petrol,18.8 - 18.9 km/l,5,5,2,1199,Manual Automatic (AMT),3827 mm L X 1742 mm W X 1615 mm H,37
+Tata,Tigor, 6.09 - 8.84 Lakh,Petrol CNG,19.2 - 26.4 km/l,5,4,2,1199,Manual Automatic (AMT),3993 mm L X 1677 mm W X 1532 mm H,35 60
+Tata,Altroz, 6.34 - 10.25 Lakh,Petrol Diesel,18.1 - 23 km/l,5,5,2,1199,Manual Automatic (DCT),3990 mm L X 1755 mm W X 1523 mm H,37
+Tata,Tiago, 5.44 - 7.90 Lakh,Petrol CNG,20 - 26.4 km/l,5,4,2,1199,Manual Automatic (AMT),3765 mm L X 1677 mm W X 1535 mm H,35 60
+Tata,Nexon, 7.69 - 14.18 Lakh,Petrol Diesel,16.3 - 22 km/l,5,5,2,1199,Manual Automatic (AMT),3993 mm L X 1811 mm W X 1606 mm H,44
+Tata,Harrier, 14.79 - 22.34 Lakh,Diesel,14.6 - 16.3 km/l,5,4,2,1956,Manual Automatic (TC),4598 mm L X 1894 mm W X 1706 mm H,50
+Tata,Safari, 15.45 - 23.76 Lakh,Diesel,14 - 16.1 km/l,4,4,2,1956,Manual Automatic (TC),4661 mm L X 1894 mm W X 1786 mm H,50
+Kia,Sonet, 7.49 - 13.99 Lakh,Petrol Diesel,18.2 - 24.1 km/l,5,4,3,1197,Manual Clutchless Manual (IMT) Automatic (DCT) Automatic (TC),3995 mm L X 1790 mm W X 1610 mm H,45
+Kia,Carens, 10.00 - 18.00 Lakh,Petrol Diesel,15.7 - 21.3 km/l,4,4,3,1353,Manual Automatic (DCT) Automatic (TC),4540 mm L X 1800 mm W X 1708 mm H,45
+Kia,Seltos, 10.49 - 18.65 Lakh,Petrol Diesel,16.1 - 21 km/l,5,3,3,1493,Manual Clutchless Manual (IMT) Automatic (TC) Automatic (CVT) Automatic (DCT),4315 mm L X 1800 mm W X 1620 mm H,50
+Kia,Carnival," 29.99 - 34.98 Lakh
+										",Diesel,13.9 km/l,4,5,3,2199,Automatic (TC),5115 mm L X 1985 mm W X 1755 mm H,60
+Volkswagen,Virtus, 11.32 - 18.42 Lakh,Petrol,18.1 - 19.4 km/l,5,4,4,999,Manual Automatic (TC) Automatic (DCT),4561 mm L X 1752 mm W X 1507 mm H,45
+Volkswagen,Taigun, 11.56 - 18.71 Lakh,Petrol,17.2 - 19.2 km/l,5,5,4,999,Manual Automatic (TC) Automatic (DCT),4221 mm L X 1760 mm W X 1612 mm H,50
+Volkswagen,Tiguan, 33.50 Lakh,Petrol,12.6 km/l,5,5,4,1984,Automatic (DCT),4509 mm L X 1839 mm W X 1665 mm H,60
+Skoda,Slavia, 11.29 - 18.40 Lakh,Petrol,18 - 19.4 km/l,5,4,4,999,Manual Automatic (TC) Automatic (DCT),4541 mm L X 1752 mm W X 1507 mm H,45
+Skoda,Kushaq, 11.58 - 19.69 Lakh,Petrol,17.2 - 19.2 km/l,5,5,4,999,Manual Automatic (TC) Automatic (DCT),4225 mm L X 1760 mm W X 1612 mm H,50
+Skoda,Octavia, 27.34 - 30.44 Lakh,Petrol,15.8 km/l,5,5,4,1984,Automatic (DCT),4689 mm L X 1829 mm W X 1469 mm H,50
+Skoda,Superb, 34.16 - 37.26 Lakh,Petrol,15.1 km/l,5,5,4,1984,Automatic (DCT),4869 mm L X 1864 mm W X 1469 mm H,66
+Skoda,Kodiaq, 37.49 - 39.99 Lakh,Petrol,12.7 km/l,7,5,4,1984,Automatic (DCT),4699 mm L X 1882 mm W X 1665 mm H,58
+Jaguar,XF, 71.60 - 76.00 Lakh,Petrol Diesel,14.4 - 19.2 km/l,5,5,3,1997,Automatic (TC),4962 mm L X 1982 mm W X 1456 mm H,74 66
+Jaguar,F-Pace, 74.88 Lakh,Petrol Diesel,12.9 - 19.3 km/l,5,5,3,1997,Automatic (TC),4747 mm L X 2071 mm W X 1664 mm H,82 60
+Jaguar,F-Type, 97.93 Lakh - 2.61 Crore,Petrol,9.1 - 12.3 km/l,2,4,3,1997,Automatic (TC),4470 mm L X 1923 mm W X 1311 mm H,63 70
+Renault,Kwid, 4.64 - 6.09 Lakh,Petrol,20.7 - 22 km/l,5,1,2,799,Manual Automatic (AMT),3731 mm L X 1579 mm W X 1474 mm H,28
+Renault,Triber, 5.90 - 8.51 Lakh,Petrol,18.2 - 19 km/l,7,4,2,999,Manual Automatic (AMT),3991 mm L X 1739 mm W X 1643 mm H,40
+Renault,Kiger, 5.99 - 10.62 Lakh,Petrol,18.2 - 20.5 km/l,5,4,2,999,Manual Automatic (AMT) Automatic (CVT),3991 mm L X 1750 mm W X 1605 mm H,40
+Jeep,Compass," 19.27 - 32.67 Lakh
+										",Petrol Diesel,13.8 - 17.3 km/l,5,4,3,1368,Manual Automatic (DCT) Automatic (TC),4405 mm L X 1818 mm W X 1640 mm H,60
+Jeep,Meridian, 29.90 - 36.95 Lakh,Diesel,14.9 - 16.2 km/l,7,4,3,1956,Manual Automatic (TC),4769 mm L X 1859 mm W X 1698 mm H,60
+Jeep,Wrangler, 57.83 - 61.83 Lakh,Petrol,12.1,5,4,2,1998,Automatic (TC),4882 mm L X 1894 mm W X 1838 mm H,81
+Volvo,XC40, 45.85 Lakh,Mild Hybrid(Electric + Petrol),14.4 km/l,5,5,2,1969,Automatic,4440 mm L X 1863 mm W X 1652 mm H,54
+Volvo,S60, 45.90 Lakh,Mild Hybrid(Electric + Petrol),14 km/l,5,5,2,1969,Automatic (TC),4761 mm L X 2040 mm W X 1431 mm H,60
+Volvo,XC60, 65.90 Lakh,Mild Hybrid(Electric + Petrol),12.4 km/l,5,5,2,1969,Automatic,4708 mm L X 1902 mm W X 1653 mm H,71
+Volvo,S90, 66.90 Lakh,Mild Hybrid(Electric + Petrol),14.7 km/l,5,5,2,1969,Automatic,4969 mm L X 1879 mm W X 1440 mm H,60
+Volvo,XC90, 94.90 Lakh,Mild Hybrid(Electric + Petrol),11.04 km/l,7,5,2,1969,Automatic,4953 mm L X 2008 mm W X 1773 mm H,71
+Nissan,Magnite, 5.97 - 10.53 Lakh,Petrol,17.7 - 20 km/l,5,4,2,999,Manual Automatic (CVT),3994 mm L X 1758 mm W X 1572 mm H,40
+Nissan,Kicks, 9.50 - 14.88 Lakh,Petrol,13.9 - 15.8 km/l,5,3,2,1498,Manual Automatic (CVT),4384 mm L X 1813 mm W X 1669 mm H,50
+Nissan,GT-R, 2.12 Crore,Petrol,8.4 km/l,4,4,3,3799,Automatic (DCT),4710 mm L X 1895 mm W X 1370 mm H,74
+Lamborghini,Urus, 3.10 Crore,Petrol,7.8 km/l,5,4,3,3996,Automatic (DCT),5112 mm L X 2016 mm W X 1638 mm H,85
+Lamborghini,Huracan, 3.22 - 3.73 Crore,Petrol,7.2 - 7.3 km/l,2,4,3,5204,Automatic (DCT),4520 mm L X 2236 mm W X 1165 mm H,83
+Porsche,Macan, 83.21 Lakh,Petrol,11.4 km/l,5,5,3,1984,Automatic (DCT),4726 mm L X 1922 mm W X 1621 mm H,65
+Porsche,Cayenne, 1.26 - 1.93 Crore,Petrol Hybrid (Electric + Petrol),8.6 - 41.6 km/l,5,5,5,2995,Automatic (TC),4918 mm L X 1983 mm W X 1696 mm H,75 90
+Porsche,718, 1.32 - 2.54 Crore,Petrol,7.5 - 14.5 km/l,2,4,3,1988,Automatic (DCT) Manual,4379 mm L X 1801 mm W X 1295 mm H,54 64
+Porsche,Panamera, 1.57 - 2.73 Crore,Petrol Hybrid (Electric + Petrol),9.7 - 30.3 km/l,4,4,2,2894,Automatic (DCT),5049 mm L X 1937 mm W X 1423 mm H,75 90 80
+Porsche,911, 1.72 - 3.25 Crore,Petrol,7.4 - 11.2 km/l,4,4,3,2981,Automatic (DCT) Manual,4519 mm L X 1852 mm W X 1298 mm H,64 67
+MINI,Cooper, 40.00 - 40.58 Lakh,Petrol,16.3 km/l,4,4,2,1998,Automatic (DCT),3850 mm L X 1727 mm W X 1414 mm H,44
+MINI,Countryman, 46.00 Lakh,Petrol,14.3 km/l,5,5,2,1998,Automatic (DCT),4299 mm L X 1822 mm W X 1557 mm H,47
+Citroen,C3, 5.88 - 8.15 Lakh,Petrol,19.4 - 19.8 km/l,5,4,2,1198,Manual,3981 mm L X 1733 mm W X 1586 mm H,30
+Citroen,C5, 32.24 - 33.78 Lakh,Diesel,18.6 km/l,5,4,3,1997,Automatic (TC),4500 mm L X 1969 mm W X 1710 mm H,53
+Maserati,Ghibli, 1.20 - 1.99 Crore,Hybrid (Electric + Petrol) Petrol,8 - 11.4 km/l,5,5,4,1998,Automatic (TC),4971 mm L X 1945 mm W X 1461 mm H,80
+Maserati,Levante, 1.45 - 2.38 Crore,Petrol,9.3 - 9.8 km/l,5,4,3,2979,Automatic (TC),5005 mm L X 1981 mm W X 1693 mm H,80
+Maserati,Quattroporte, 1.80 - 2.32 Crore,Petrol,8.2 - 9.4 km/l,5,5,3,2979,Automatic (TC),5262 mm L X 1948 mm W X 1481 mm H,80
+Maserati,MC20, 3.65 Crore,Petrol,8.6 km/l,2,4,4,3000,Automatic (DCT),4669 mm L X 2178 mm W X 1224 mm H,60
+Bentley,Bentayga, 4.10 Crore,Petrol,7.6 km/l,5,4,3,3996,Automatic (TC),5125 mm L X 2222 mm W X 1728 mm H,85
+McLaren,GT, 3.72 Crore,Petrol,7 km/l,2,4,3,3994,Automatic (DCT),4683 mm L X 2045 mm W X 3286 mm H,72
+McLaren,720S, 4.65 - 5.04 Crore,Petrol,8.2 km/l,2,4,3,3994,Automatic (DCT),4543 mm L X 2059 mm W X 1196 mm H,72
